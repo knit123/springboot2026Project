@@ -26,7 +26,7 @@ public class EmployeeController {
 	@GetMapping("/employee")
 	public String welcomeAdmin(){
 		
-		return "Welcome Admin !!";
+		return "Welcome Sikandar !!";
 		
 	}
 	
